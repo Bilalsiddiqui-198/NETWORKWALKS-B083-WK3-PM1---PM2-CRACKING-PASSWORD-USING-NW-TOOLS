@@ -216,4 +216,6 @@ Password-cracking tools were used only in an authorized cybersecurity internship
 
 `Computer Science Student | Cybersecurity & Networking Enthusiast`
 
-LinkedIn: https://www.linkedin.com/in/bilal-siddiqui-61562a333/# NETWORKWALKS-B083-WK3-PM1---PM2-CRACKING-PASSWORD-USING-NW-TOOLS
+LinkedIn: https://www.linkedin.com/in/bilal-siddiqui-61562a333/# 
+
+NETWORKWALKS-B083-WK3-PM1-PM2-CRACKING-PASSWORD-USING-NW-TOOLS
