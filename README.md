@@ -48,7 +48,7 @@ The exercise was performed only on the internship-provided locked PDF file, for 
 
 ---
 
-# 🪜 Part 1 — John the Ripper (JTR) + Johnny
+# Part 1 — John the Ripper (JTR) + Johnny
 
 ## Step 1. Configure John the Ripper
 
@@ -86,7 +86,7 @@ Successfully Opened:
 
 ---
 
-# 🪜 Part 2 — Networkwalks Hash Calculator & Password Cracker
+# Part 2 — Networkwalks Hash Calculator & Password Cracker
 
 ## Step 5. Generate the Hash Using Networkwalks Hash Calculator
 
