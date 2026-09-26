@@ -80,6 +80,10 @@ The recovered password was entered into the protected PDF, which opened successf
 
 ![PDF Unlocked with Recovered Password](4-unlocking-with-password.png)
 
+Successfully Opened:
+
+![PDF Opened Successfully](9-pdf-opened-successfully.png)
+
 ---
 
 # 🪜 Part 2 — Networkwalks Hash Calculator & Password Cracker
