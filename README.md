@@ -82,7 +82,7 @@ The recovered password was entered into the protected PDF, which opened successf
 
 Successfully Opened:
 
-![PDF Opened Successfully](9-pdf-opened-successfully.png)
+![PDF Opened Successfully](8-pdf-opened-successfully.png)
 
 ---
 
@@ -92,7 +92,7 @@ Successfully Opened:
 
 The encrypted PDF was uploaded to the [Networkwalks Hash Calculator](https://networkwalks.com/hash-calculator/), which processed the file and generated a `$pdf$...` hash.
 
-![Hash Calculator Output](6-Hash_Calculator.png)
+![Hash Calculator Output](5-Hash_Calculator.png)
 
 ---
 
@@ -100,7 +100,7 @@ The encrypted PDF was uploaded to the [Networkwalks Hash Calculator](https://net
 
 The generated hash was tested using the [Networkwalks Password Cracker](https://networkwalks.com/password-cracker/) with its **default wordlist**, but the password was **not found**.
 
-![Default Wordlist Attempt Failed](7-couldn't_cracked_with_default_wordlist.png)
+![Default Wordlist Attempt Failed](6-couldn't_cracked_with_default_wordlist.png)
 
 ---
 
@@ -108,7 +108,7 @@ The generated hash was tested using the [Networkwalks Password Cracker](https://
 
 Since the default wordlist did not contain the correct password, a **custom wordlist was uploaded** to the Password Cracker. This attempt successfully recovered the password.
 
-![Password Cracked Using Custom Wordlist](8-cracked-password-with-uploaded-wordlist.png)
+![Password Cracked Using Custom Wordlist](7-cracked-password-with-uploaded-wordlist.png)
 
 ---
 
@@ -116,7 +116,7 @@ Since the default wordlist did not contain the correct password, a **custom word
 
 The password recovered from the custom wordlist was entered into the PDF, which opened successfully — confirming the second attempt was correct.
 
-![PDF Opened Successfully](9-pdf-opened-successfully.png)
+![PDF Opened Successfully](8-pdf-opened-successfully.png)
 
 ---
 
